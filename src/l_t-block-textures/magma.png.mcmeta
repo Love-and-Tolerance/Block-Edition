@@ -1,11 +1,1 @@
-{
-	"animation": {
-		"frames": [
-			0,
-			1,
-			2
-		],
-		"frametime": 8,
-		"interpolate": true
-	}
-}
+{"animation":{"frames":[0,1,2],"frametime":8,"interpolate":true}}
