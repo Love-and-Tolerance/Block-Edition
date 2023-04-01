@@ -1,0 +1,7 @@
+{
+	"ambientocclusion": false,
+	"parent": "block/template_single_face",
+	"textures": {
+		"texture": "block/mushroom_block_inside_4"
+	}
+}
